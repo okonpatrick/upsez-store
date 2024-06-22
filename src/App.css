@@ -1,0 +1,5 @@
+.item-details {
+  display: flex;
+  flex-direction: column; /* Stack items vertically */
+  flex-grow: 1; /* Allow this section to grow to fill remaining space */
+}
